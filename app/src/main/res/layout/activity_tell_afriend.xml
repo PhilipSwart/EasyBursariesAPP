@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#070813"
+    tools:context=".TellAFriend">
+
+    <TextView
+        android:id="@+id/share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="94dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="-88dp"
+        android:text="@string/share1"
+        android:textColor="#ffffff"
+        android:textSize="26sp" />
+
+    <EditText
+        android:id="@+id/AddNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="31dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="656dp"
+        android:autofillHints=""
+        android:background="#30ffffff"
+        android:focusable="true"
+        android:gravity="clip_vertical"
+        android:hint="Add Email"
+        android:inputType="textPhonetic"
+        android:minHeight="48dp"
+        android:padding="10dp"
+        android:textColorHint="#ffffff" />
+
+
+    <Button
+        android:id="@+id/Sendlink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="-202dp"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="554dp"
+        android:fontFamily="sans-serif"
+        android:padding="8dp"
+        android:text="@string/share2"
+        android:textSize="20sp" />
+</RelativeLayout>
