@@ -14,9 +14,17 @@
         android:theme="@style/Theme.EasyBursaries"
         tools:targetApi="31">
         <activity
+            android:name=".AboutUs"
+            android:exported="false"
+            android:label="About Us"/>
+        <activity
+            android:name=".Privacy_Policy"
+            android:exported="false"
+            android:label="Privacy Policy" />
+        <activity
             android:name=".TellAFriend"
-            android:label="Tell A friend"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Tell A friend" />
         <activity
             android:name=".SettingsPage"
             android:exported="false"

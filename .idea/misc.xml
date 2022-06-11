@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/action_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_about_us.xml" value="0.21" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_home_page.xml" value="0.2" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_login_page.xml" value="0.2" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_notifications_page.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_privacy_policy.xml" value="0.10433856800638808" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_profile_design_page.xml" value="0.2" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_settings_page.xml" value="0.18" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EasyBursaries/app/src/main/res/layout/activity_sign_up_page.xml" value="0.2" />
