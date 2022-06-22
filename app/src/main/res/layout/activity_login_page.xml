@@ -18,7 +18,7 @@
         android:layout_marginTop="-80dp"
         android:layout_marginRight="6dp"
         android:layout_marginBottom="582dp"
-        android:src="@drawable/Login_Logo" />
+        android:src="@drawable/login_logo" />
 
     <TextView
         android:layout_width="wrap_content"
